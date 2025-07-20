@@ -1,3 +1,6 @@
+**The full thesis will be uploaded here after official publication by Siksha 'O' Anusandhan University.**
+
+
 # 🧠 Parkinson’s Diagnosis via Speech – Research Project
 
 **Numerical and Graphical Feature-Based Speech Analysis for Parkinson’s Disease Detection**  
